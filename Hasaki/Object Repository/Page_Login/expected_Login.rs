@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>expected_Login</name>
+   <tag></tag>
+   <elementGuidId>8d6c6d69-c928-40fe-b1d2-71ac248cc226</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Login/expected_Login.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-head-login']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Login/expected_Login.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6ddc15a7-faab-4def-aeac-aacca6e88327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger</value>
+      <webElementGuid>cb1a9cfe-4318-481a-8898-9c895882cff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tên đăng nhập không khớp !</value>
+      <webElementGuid>f6a0db75-9ce7-484e-9d43-74ac60618165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-head-login&quot;)/div[@class=&quot;showMessageError&quot;]/div[@class=&quot;alert alert-danger&quot;]</value>
+      <webElementGuid>537dadbe-1f77-4e1b-84b3-8489d740dd8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-head-login']/div[2]/div</value>
+      <webElementGuid>fe2cdaaf-3746-4b65-a73e-1fe50afe0ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoặc đăng nhập với Hasaki.vn'])[1]/following::div[2]</value>
+      <webElementGuid>f94d802d-55ed-42f9-ad08-10416654a119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quên mật khẩu'])[1]/preceding::div[5]</value>
+      <webElementGuid>dfde3125-0690-403d-9528-e08e0d61510f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tên đăng nhập không khớp !']/parent::*</value>
+      <webElementGuid>19677d8e-6d81-4bb8-a267-3d1c2c12a562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>5d4c1539-cb3a-4fb7-bf86-43d9af03c6dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tên đăng nhập không khớp !' or . = 'Tên đăng nhập không khớp !')]</value>
+      <webElementGuid>fe0c57d5-0487-4ed9-a727-ac7e82783182</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

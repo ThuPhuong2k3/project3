@@ -1,0 +1,471 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login,Chrome 125.0.0.0,,,24-05-2024 08:52:43,24-05-2024 09:01:55,9m - 11.594s,FAILED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:52:44,24-05-2024 08:53:04,20.639s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:52:44,24-05-2024 08:52:48,3.494s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:52:48,24-05-2024 08:52:51,3.459s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:52:51,24-05-2024 08:52:52,0.373s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:52:52,24-05-2024 08:52:52,0.763s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:52:52,24-05-2024 08:52:53,0.658s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:52:53,24-05-2024 08:52:54,0.840s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:52:54,24-05-2024 08:52:56,2.115s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:52:56,24-05-2024 08:52:57,1.434s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:52:57,24-05-2024 08:52:58,0.701s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:52:58,24-05-2024 08:53:01,3.082s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:53:01,24-05-2024 08:53:04,2.513s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:53:04,24-05-2024 08:53:04,0.679s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:53:05,24-05-2024 08:53:21,16.748s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:53:05,24-05-2024 08:53:06,0.942s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:53:06,24-05-2024 08:53:09,3.294s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:53:09,24-05-2024 08:53:09,0.310s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:53:09,24-05-2024 08:53:10,1.189s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:53:10,24-05-2024 08:53:11,1.082s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:53:11,24-05-2024 08:53:12,0.870s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:53:12,24-05-2024 08:53:14,1.430s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:53:14,24-05-2024 08:53:15,1.040s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:53:15,24-05-2024 08:53:15,0.648s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:53:15,24-05-2024 08:53:18,3.015s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:53:18,24-05-2024 08:53:21,2.255s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:53:21,24-05-2024 08:53:21,0.630s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:53:21,24-05-2024 08:53:38,16.351s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:53:21,24-05-2024 08:53:22,0.876s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:53:22,24-05-2024 08:53:26,3.274s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:53:26,24-05-2024 08:53:26,0.175s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:53:26,24-05-2024 08:53:27,0.970s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:53:27,24-05-2024 08:53:28,1.004s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:53:28,24-05-2024 08:53:28,0.735s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:53:28,24-05-2024 08:53:30,1.384s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:53:30,24-05-2024 08:53:31,0.878s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:53:31,24-05-2024 08:53:31,0.772s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:53:31,24-05-2024 08:53:34,3.008s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:53:34,24-05-2024 08:53:37,2.313s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:53:37,24-05-2024 08:53:38,0.929s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:53:38,24-05-2024 08:53:54,15.981s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:53:38,24-05-2024 08:53:39,0.951s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:53:39,24-05-2024 08:53:42,3.342s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:53:42,24-05-2024 08:53:42,0.236s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:53:42,24-05-2024 08:53:43,0.809s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:53:43,24-05-2024 08:53:44,1.071s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:53:44,24-05-2024 08:53:45,0.610s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:53:45,24-05-2024 08:53:46,1.410s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:53:46,24-05-2024 08:53:47,1.092s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:53:47,24-05-2024 08:53:48,0.620s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:53:48,24-05-2024 08:53:51,3.008s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:53:51,24-05-2024 08:53:53,2.186s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:53:53,24-05-2024 08:53:54,0.608s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:53:54,24-05-2024 08:54:10,15.729s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:53:54,24-05-2024 08:53:55,0.881s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:53:55,24-05-2024 08:53:58,3.391s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:53:58,24-05-2024 08:53:58,0.282s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:53:58,24-05-2024 08:53:59,0.858s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:53:59,24-05-2024 08:54:00,1.033s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:54:00,24-05-2024 08:54:01,0.635s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:54:01,24-05-2024 08:54:02,1.368s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:54:02,24-05-2024 08:54:03,1.069s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:54:03,24-05-2024 08:54:04,0.637s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:54:04,24-05-2024 08:54:07,3.005s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:54:07,24-05-2024 08:54:09,2.075s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:54:09,24-05-2024 08:54:10,0.474s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:54:10,24-05-2024 08:54:25,15.515s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:54:10,24-05-2024 08:54:11,0.900s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:54:11,24-05-2024 08:54:14,3.226s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:54:14,24-05-2024 08:54:14,0.297s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:54:14,24-05-2024 08:54:15,0.708s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:54:15,24-05-2024 08:54:15,0.578s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:54:15,24-05-2024 08:54:16,0.883s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:54:16,24-05-2024 08:54:18,1.479s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:54:18,24-05-2024 08:54:19,0.812s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:54:19,24-05-2024 08:54:19,0.891s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:54:19,24-05-2024 08:54:22,3.006s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:54:22,24-05-2024 08:54:25,2.138s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:54:25,24-05-2024 08:54:25,0.560s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:54:25,24-05-2024 08:54:41,15.780s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:54:25,24-05-2024 08:54:26,0.966s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:54:26,24-05-2024 08:54:30,3.340s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:54:30,24-05-2024 08:54:30,0.278s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:54:30,24-05-2024 08:54:31,0.689s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:54:31,24-05-2024 08:54:32,1.087s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:54:32,24-05-2024 08:54:32,0.614s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:54:32,24-05-2024 08:54:34,1.406s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:54:34,24-05-2024 08:54:35,0.949s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:54:35,24-05-2024 08:54:35,0.721s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:54:35,24-05-2024 08:54:38,3.019s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:54:38,24-05-2024 08:54:41,2.590s,FAILED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:54:41,24-05-2024 08:54:57,15.883s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:54:41,24-05-2024 08:54:43,1.546s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:54:43,24-05-2024 08:54:46,2.926s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:54:46,24-05-2024 08:54:46,0.278s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:54:46,24-05-2024 08:54:47,1.455s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:54:47,24-05-2024 08:54:48,0.512s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:54:48,24-05-2024 08:54:48,0.622s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:54:48,24-05-2024 08:54:50,1.396s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:54:50,24-05-2024 08:54:51,0.906s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:54:51,24-05-2024 08:54:51,0.693s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:54:51,24-05-2024 08:54:54,3.013s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:54:54,24-05-2024 08:54:57,2.485s,FAILED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:54:57,24-05-2024 08:55:15,17.495s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:54:57,24-05-2024 08:54:59,1.477s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:54:59,24-05-2024 08:55:03,4.080s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:55:03,24-05-2024 08:55:03,0.224s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:55:03,24-05-2024 08:55:04,0.972s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:55:04,24-05-2024 08:55:05,1.076s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:55:05,24-05-2024 08:55:06,0.739s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:55:06,24-05-2024 08:55:07,1.332s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:55:07,24-05-2024 08:55:08,1.187s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:55:08,24-05-2024 08:55:09,0.584s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:55:09,24-05-2024 08:55:12,3.015s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:55:12,24-05-2024 08:55:14,2.242s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:55:14,24-05-2024 08:55:15,0.537s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:55:15,24-05-2024 08:55:30,15.678s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:55:15,24-05-2024 08:55:16,0.922s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:55:16,24-05-2024 08:55:19,3.272s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:55:19,24-05-2024 08:55:19,0.331s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:55:19,24-05-2024 08:55:20,0.708s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:55:20,24-05-2024 08:55:21,1.093s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:55:21,24-05-2024 08:55:22,0.693s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:55:22,24-05-2024 08:55:23,1.439s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:55:23,24-05-2024 08:55:24,0.873s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:55:24,24-05-2024 08:55:25,0.665s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:55:25,24-05-2024 08:55:28,3.018s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:55:28,24-05-2024 08:55:30,1.962s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:55:30,24-05-2024 08:55:30,0.685s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:55:30,24-05-2024 08:55:47,16.132s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:55:30,24-05-2024 08:55:31,0.992s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:55:31,24-05-2024 08:55:35,3.470s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:55:35,24-05-2024 08:55:35,0.467s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:55:35,24-05-2024 08:55:36,0.915s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:55:36,24-05-2024 08:55:37,0.552s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:55:37,24-05-2024 08:55:37,0.586s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:55:37,24-05-2024 08:55:39,1.230s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:55:39,24-05-2024 08:55:40,1.104s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:55:40,24-05-2024 08:55:42,2.608s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:55:42,24-05-2024 08:55:45,3.005s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:55:45,24-05-2024 08:55:47,1.156s,FAILED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:55:47,24-05-2024 08:56:03,16.331s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:55:47,24-05-2024 08:55:48,1.540s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:55:48,24-05-2024 08:55:51,3.246s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:55:51,24-05-2024 08:55:52,0.291s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:55:52,24-05-2024 08:55:53,0.958s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:55:53,24-05-2024 08:55:54,1.081s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:55:54,24-05-2024 08:55:54,0.581s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:55:54,24-05-2024 08:55:56,1.407s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:55:56,24-05-2024 08:55:57,1.001s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:55:57,24-05-2024 08:55:57,0.700s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:55:57,24-05-2024 08:56:00,3.016s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:56:00,24-05-2024 08:56:03,2.483s,FAILED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:56:03,24-05-2024 08:56:19,15.813s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:56:03,24-05-2024 08:56:05,1.447s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:56:05,24-05-2024 08:56:08,3.283s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:56:08,24-05-2024 08:56:08,0.168s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:56:08,24-05-2024 08:56:09,1.160s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:56:09,24-05-2024 08:56:10,0.565s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:56:10,24-05-2024 08:56:10,0.549s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:56:10,24-05-2024 08:56:12,1.234s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:56:12,24-05-2024 08:56:13,1.331s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:56:13,24-05-2024 08:56:14,0.732s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:56:14,24-05-2024 08:56:17,3.012s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:56:17,24-05-2024 08:56:18,1.773s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:56:18,24-05-2024 08:56:19,0.519s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:56:19,24-05-2024 08:56:34,15.420s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:56:19,24-05-2024 08:56:20,0.927s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:56:20,24-05-2024 08:56:23,3.168s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:56:23,24-05-2024 08:56:23,0.211s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:56:23,24-05-2024 08:56:24,0.918s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:56:24,24-05-2024 08:56:25,1.212s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:56:25,24-05-2024 08:56:26,0.622s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:56:26,24-05-2024 08:56:27,1.136s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:56:27,24-05-2024 08:56:28,1.217s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:56:28,24-05-2024 08:56:29,0.634s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:56:29,24-05-2024 08:56:32,3.009s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:56:32,24-05-2024 08:56:34,2.289s,FAILED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:56:34,24-05-2024 08:56:51,16.195s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:56:34,24-05-2024 08:56:36,1.310s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:56:36,24-05-2024 08:56:39,3.324s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:56:39,24-05-2024 08:56:39,0.268s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:56:39,24-05-2024 08:56:40,0.705s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:56:40,24-05-2024 08:56:41,0.976s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:56:41,24-05-2024 08:56:42,0.826s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:56:42,24-05-2024 08:56:43,1.369s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:56:43,24-05-2024 08:56:44,1.073s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:56:44,24-05-2024 08:56:45,0.795s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:56:45,24-05-2024 08:56:48,3.012s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:56:48,24-05-2024 08:56:51,2.507s,FAILED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:56:51,24-05-2024 08:57:07,15.927s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:56:51,24-05-2024 08:56:52,1.509s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:56:52,24-05-2024 08:56:56,3.361s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:56:56,24-05-2024 08:56:56,0.148s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:56:56,24-05-2024 08:56:57,0.880s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:56:57,24-05-2024 08:56:58,1.072s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:56:58,24-05-2024 08:56:58,0.741s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:56:58,24-05-2024 08:57:00,1.203s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:57:00,24-05-2024 08:57:01,1.005s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:57:01,24-05-2024 08:57:01,0.810s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:57:01,24-05-2024 08:57:04,3.018s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:57:04,24-05-2024 08:57:07,2.153s,FAILED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:57:07,24-05-2024 08:57:23,16.320s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:57:07,24-05-2024 08:57:08,1.256s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:57:08,24-05-2024 08:57:12,3.556s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:57:12,24-05-2024 08:57:12,0.290s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:57:12,24-05-2024 08:57:12,0.574s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:57:12,24-05-2024 08:57:13,1.045s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:57:13,24-05-2024 08:57:14,0.642s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:57:14,24-05-2024 08:57:15,1.343s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:57:15,24-05-2024 08:57:16,0.818s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:57:16,24-05-2024 08:57:17,0.972s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:57:17,24-05-2024 08:57:20,3.014s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:57:20,24-05-2024 08:57:22,2.167s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:57:22,24-05-2024 08:57:23,0.599s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:57:23,24-05-2024 08:57:39,15.973s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:57:23,24-05-2024 08:57:24,0.878s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:57:24,24-05-2024 08:57:24,0.456s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:57:24,24-05-2024 08:57:27,2.825s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:57:27,24-05-2024 08:57:29,1.708s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:57:29,24-05-2024 08:57:30,0.563s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:57:30,24-05-2024 08:57:30,0.595s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:57:30,24-05-2024 08:57:31,1.223s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:57:31,24-05-2024 08:57:32,1.053s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:57:32,24-05-2024 08:57:33,0.788s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:57:33,24-05-2024 08:57:36,3.020s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:57:36,24-05-2024 08:57:38,2.193s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:57:38,24-05-2024 08:57:39,0.635s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:57:39,24-05-2024 08:57:58,18.755s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:57:39,24-05-2024 08:57:40,0.855s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:57:40,24-05-2024 08:57:46,6.035s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:57:46,24-05-2024 08:57:46,0.436s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:57:46,24-05-2024 08:57:47,0.921s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:57:47,24-05-2024 08:57:48,0.498s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:57:48,24-05-2024 08:57:49,1.099s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:57:49,24-05-2024 08:57:50,1.254s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:57:50,24-05-2024 08:57:51,0.864s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:57:51,24-05-2024 08:57:52,1.026s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:57:52,24-05-2024 08:57:55,3.010s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:57:55,24-05-2024 08:57:57,2.167s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:57:57,24-05-2024 08:57:58,0.551s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:57:58,24-05-2024 08:58:14,16.111s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:57:58,24-05-2024 08:57:59,0.849s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:57:59,24-05-2024 08:58:02,3.144s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:58:02,24-05-2024 08:58:02,0.296s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:58:02,24-05-2024 08:58:03,0.918s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:58:03,24-05-2024 08:58:04,1.130s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:58:04,24-05-2024 08:58:05,0.855s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:58:05,24-05-2024 08:58:07,1.421s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:58:07,24-05-2024 08:58:08,0.931s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:58:08,24-05-2024 08:58:08,0.818s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:58:08,24-05-2024 08:58:11,3.016s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:58:11,24-05-2024 08:58:14,2.174s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:58:14,24-05-2024 08:58:14,0.510s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:58:14,24-05-2024 08:58:30,15.486s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:58:14,24-05-2024 08:58:15,0.826s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:58:15,24-05-2024 08:58:18,3.085s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:58:18,24-05-2024 08:58:18,0.263s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:58:18,24-05-2024 08:58:19,0.576s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:58:19,24-05-2024 08:58:20,1.107s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:58:20,24-05-2024 08:58:21,0.542s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:58:21,24-05-2024 08:58:22,1.083s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:58:22,24-05-2024 08:58:23,1.061s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:58:23,24-05-2024 08:58:24,1.092s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:58:24,24-05-2024 08:58:27,3.013s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:58:27,24-05-2024 08:58:29,2.259s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:58:29,24-05-2024 08:58:30,0.553s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:58:30,24-05-2024 08:58:45,15.459s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:58:30,24-05-2024 08:58:31,0.965s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:58:31,24-05-2024 08:58:34,3.200s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:58:34,24-05-2024 08:58:34,0.314s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:58:34,24-05-2024 08:58:35,1.166s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:58:35,24-05-2024 08:58:36,0.573s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:58:36,24-05-2024 08:58:36,0.593s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:58:36,24-05-2024 08:58:38,1.178s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:58:38,24-05-2024 08:58:39,0.979s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:58:39,24-05-2024 08:58:39,0.834s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:58:39,24-05-2024 08:58:42,3.015s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:58:42,24-05-2024 08:58:45,2.057s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:58:45,24-05-2024 08:58:45,0.567s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:58:45,24-05-2024 08:59:01,15.709s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:58:45,24-05-2024 08:58:46,0.807s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:58:46,24-05-2024 08:58:49,3.250s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:58:49,24-05-2024 08:58:50,0.319s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:58:50,24-05-2024 08:58:50,0.747s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:58:50,24-05-2024 08:58:51,1.062s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:58:51,24-05-2024 08:58:52,0.770s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:58:52,24-05-2024 08:58:53,1.271s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:58:53,24-05-2024 08:58:54,0.868s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:58:54,24-05-2024 08:58:55,0.822s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:58:55,24-05-2024 08:58:58,3.010s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:58:58,24-05-2024 08:59:00,2.236s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:59:00,24-05-2024 08:59:01,0.512s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:59:01,24-05-2024 08:59:16,15.022s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:59:01,24-05-2024 08:59:02,0.853s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:59:02,24-05-2024 08:59:05,3.264s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:59:05,24-05-2024 08:59:05,0.327s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:59:05,24-05-2024 08:59:06,0.925s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:59:06,24-05-2024 08:59:07,0.517s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:59:07,24-05-2024 08:59:07,0.570s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:59:07,24-05-2024 08:59:09,1.312s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:59:09,24-05-2024 08:59:10,0.952s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:59:10,24-05-2024 08:59:10,0.808s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:59:10,24-05-2024 08:59:13,3.009s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:59:13,24-05-2024 08:59:15,1.951s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:59:15,24-05-2024 08:59:16,0.510s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:59:16,24-05-2024 08:59:32,16.410s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:59:16,24-05-2024 08:59:17,0.945s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:59:17,24-05-2024 08:59:20,3.169s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:59:20,24-05-2024 08:59:20,0.317s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:59:20,24-05-2024 08:59:21,0.586s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:59:21,24-05-2024 08:59:22,0.964s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:59:22,24-05-2024 08:59:23,1.012s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:59:23,24-05-2024 08:59:24,1.282s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:59:24,24-05-2024 08:59:25,0.965s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:59:25,24-05-2024 08:59:26,0.834s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:59:26,24-05-2024 08:59:29,3.004s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:59:29,24-05-2024 08:59:32,2.512s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:59:32,24-05-2024 08:59:32,0.793s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:59:32,24-05-2024 08:59:48,15.972s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:59:33,24-05-2024 08:59:34,0.965s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:59:34,24-05-2024 08:59:37,3.533s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:59:37,24-05-2024 08:59:37,0.266s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:59:37,24-05-2024 08:59:38,0.920s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:59:38,24-05-2024 08:59:39,0.536s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:59:39,24-05-2024 08:59:40,0.949s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:59:40,24-05-2024 08:59:41,1.531s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:59:41,24-05-2024 08:59:42,0.815s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:59:42,24-05-2024 08:59:43,0.804s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:59:43,24-05-2024 08:59:46,3.015s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 08:59:46,24-05-2024 08:59:48,2.036s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 08:59:48,24-05-2024 08:59:48,0.538s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 08:59:49,24-05-2024 09:00:04,15.787s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 08:59:49,24-05-2024 08:59:49,0.881s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 08:59:49,24-05-2024 08:59:53,3.313s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 08:59:53,24-05-2024 08:59:53,0.268s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 08:59:53,24-05-2024 08:59:54,0.940s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 08:59:54,24-05-2024 08:59:55,1.035s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:59:55,24-05-2024 08:59:56,0.716s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 08:59:56,24-05-2024 08:59:57,1.315s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 08:59:57,24-05-2024 08:59:58,0.865s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 08:59:58,24-05-2024 08:59:59,0.711s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 08:59:59,24-05-2024 09:00:02,3.017s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 09:00:02,24-05-2024 09:00:04,2.137s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 09:00:04,24-05-2024 09:00:04,0.572s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 09:00:04,24-05-2024 09:00:20,15.219s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 09:00:04,24-05-2024 09:00:05,0.835s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 09:00:05,24-05-2024 09:00:09,3.363s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 09:00:09,24-05-2024 09:00:09,0.189s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 09:00:09,24-05-2024 09:00:10,0.935s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 09:00:10,24-05-2024 09:00:11,1.057s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:00:11,24-05-2024 09:00:11,0.603s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 09:00:11,24-05-2024 09:00:13,1.387s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 09:00:13,24-05-2024 09:00:14,0.879s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:00:14,24-05-2024 09:00:14,0.776s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 09:00:14,24-05-2024 09:00:17,3.006s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 09:00:17,24-05-2024 09:00:19,1.712s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 09:00:19,24-05-2024 09:00:20,0.449s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 09:00:20,24-05-2024 09:00:36,16.003s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 09:00:20,24-05-2024 09:00:21,0.877s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 09:00:21,24-05-2024 09:00:24,3.316s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 09:00:24,24-05-2024 09:00:24,0.260s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 09:00:24,24-05-2024 09:00:25,0.934s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 09:00:25,24-05-2024 09:00:26,1.107s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:00:26,24-05-2024 09:00:27,0.565s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 09:00:27,24-05-2024 09:00:28,1.318s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 09:00:28,24-05-2024 09:00:29,1.116s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:00:29,24-05-2024 09:00:30,0.715s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 09:00:30,24-05-2024 09:00:33,3.019s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 09:00:33,24-05-2024 09:00:35,2.244s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 09:00:35,24-05-2024 09:00:36,0.514s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 09:00:36,24-05-2024 09:00:52,15.939s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 09:00:36,24-05-2024 09:00:37,0.898s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 09:00:37,24-05-2024 09:00:40,3.513s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 09:00:40,24-05-2024 09:00:40,0.168s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 09:00:40,24-05-2024 09:00:42,1.497s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 09:00:42,24-05-2024 09:00:42,0.509s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:00:42,24-05-2024 09:00:43,0.655s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 09:00:43,24-05-2024 09:00:44,1.085s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 09:00:44,24-05-2024 09:00:45,0.915s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:00:45,24-05-2024 09:00:46,0.930s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 09:00:46,24-05-2024 09:00:49,3.014s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 09:00:49,24-05-2024 09:00:51,2.286s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 09:00:51,24-05-2024 09:00:52,0.436s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 09:00:52,24-05-2024 09:01:08,15.828s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 09:00:52,24-05-2024 09:00:53,0.841s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 09:00:53,24-05-2024 09:00:56,3.343s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 09:00:56,24-05-2024 09:00:56,0.238s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 09:00:56,24-05-2024 09:00:57,0.894s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 09:00:57,24-05-2024 09:00:58,1.064s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:00:58,24-05-2024 09:00:59,0.730s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 09:00:59,24-05-2024 09:01:00,1.101s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 09:01:00,24-05-2024 09:01:01,1.121s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:01:01,24-05-2024 09:01:02,0.760s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 09:01:02,24-05-2024 09:01:05,3.010s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 09:01:05,24-05-2024 09:01:07,2.132s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 09:01:07,24-05-2024 09:01:08,0.569s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 09:01:08,24-05-2024 09:01:23,15.899s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 09:01:08,24-05-2024 09:01:08,0.860s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 09:01:08,24-05-2024 09:01:12,3.321s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 09:01:12,24-05-2024 09:01:12,0.303s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 09:01:12,24-05-2024 09:01:14,1.483s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 09:01:14,24-05-2024 09:01:14,0.536s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:01:14,24-05-2024 09:01:15,0.633s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 09:01:15,24-05-2024 09:01:16,1.085s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 09:01:16,24-05-2024 09:01:17,0.956s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:01:17,24-05-2024 09:01:18,0.947s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 09:01:18,24-05-2024 09:01:21,3.010s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 09:01:21,24-05-2024 09:01:23,2.196s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 09:01:23,24-05-2024 09:01:23,0.550s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 09:01:24,24-05-2024 09:01:39,15.764s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 09:01:24,24-05-2024 09:01:24,0.879s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 09:01:24,24-05-2024 09:01:28,3.119s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 09:01:28,24-05-2024 09:01:28,0.313s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 09:01:28,24-05-2024 09:01:29,0.800s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 09:01:29,24-05-2024 09:01:30,1.050s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:01:30,24-05-2024 09:01:31,0.798s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 09:01:31,24-05-2024 09:01:32,1.592s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 09:01:32,24-05-2024 09:01:33,0.772s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:01:33,24-05-2024 09:01:34,0.887s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 09:01:34,24-05-2024 09:01:37,3.005s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 09:01:37,24-05-2024 09:01:39,2.049s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 09:01:39,24-05-2024 09:01:39,0.467s,PASSED
+,,,,,,,
+Test Cases/TC_Login,Chrome 125.0.0.0,,,24-05-2024 09:01:39,24-05-2024 09:01:55,15.621s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,24-05-2024 09:01:39,24-05-2024 09:01:40,0.933s,PASSED
+"navigateToUrl(""https://hasaki.vn/"")",Chrome 125.0.0.0,,,24-05-2024 09:01:40,24-05-2024 09:01:44,3.301s,PASSED
+maximizeWindow(),Chrome 125.0.0.0,,,24-05-2024 09:01:44,24-05-2024 09:01:44,0.296s,PASSED
+"click(findTestObject(""Page_Login/button_Yes_KhuyenMai""))",Chrome 125.0.0.0,,,24-05-2024 09:01:44,24-05-2024 09:01:45,1.312s,PASSED
+"click(findTestObject(""Page_Login/img_Page""))",Chrome 125.0.0.0,,,24-05-2024 09:01:45,24-05-2024 09:01:46,0.537s,PASSED
+"click(findTestObject(""Page_Login/Link_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:01:46,24-05-2024 09:01:46,0.572s,PASSED
+"setText(findTestObject(""Page_Login/input_username""), username)",Chrome 125.0.0.0,,,24-05-2024 09:01:46,24-05-2024 09:01:48,1.242s,PASSED
+"setText(findTestObject(""Page_Login/input_password""), password)",Chrome 125.0.0.0,,,24-05-2024 09:01:48,24-05-2024 09:01:48,0.934s,PASSED
+"click(findTestObject(""Page_Login/button_Login""))",Chrome 125.0.0.0,,,24-05-2024 09:01:48,24-05-2024 09:01:49,0.912s,PASSED
+delay(3),Chrome 125.0.0.0,,,24-05-2024 09:01:49,24-05-2024 09:01:52,3.012s,PASSED
+"verifyTextPresent(Expected, false)",Chrome 125.0.0.0,,,24-05-2024 09:01:52,24-05-2024 09:01:54,1.958s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,24-05-2024 09:01:54,24-05-2024 09:01:55,0.594s,PASSED

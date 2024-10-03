@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Change password</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9c33db7a-64c8-4b8b-a9ec-d1c3f8b7e74f</testSuiteGuid>
+   <testCaseLink>
+      <guid>3b05c1a1-87f5-4d0a-a342-b3afffc25dff</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Change password</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d6256ca3-cc2b-4180-83dd-d83bf0214834</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Change password</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d6256ca3-cc2b-4180-83dd-d83bf0214834</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Current_Password</value>
+         <variableId>815111a5-923a-4a7c-85cd-5da93916fb23</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6256ca3-cc2b-4180-83dd-d83bf0214834</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>New_Password</value>
+         <variableId>72c875e5-a775-4410-9fe0-b2abb4f19fbd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6256ca3-cc2b-4180-83dd-d83bf0214834</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Retype</value>
+         <variableId>17998887-aaf4-4120-8a98-ef8d11665c45</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6256ca3-cc2b-4180-83dd-d83bf0214834</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Expected</value>
+         <variableId>50217289-368b-46a2-af97-0fa25ba2bdc2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

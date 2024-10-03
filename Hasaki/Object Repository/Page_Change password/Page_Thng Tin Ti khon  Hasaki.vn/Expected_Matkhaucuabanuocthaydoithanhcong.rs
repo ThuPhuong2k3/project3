@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Expected_Matkhaucuabanuocthaydoithanhcong</name>
+   <tag></tag>
+   <elementGuidId>abc71e6d-4ab8-443b-9523-c0a11f9ee0f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-success.flashSession</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='input_info_account']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>94a39a85-ea9a-4b87-97ce-1a0c8d546245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-success flashSession</value>
+      <webElementGuid>37603d52-6cc1-43c7-b81b-87b2745c8936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mật khẩu của bạn đã được thay đổi thành công.</value>
+      <webElementGuid>8627826d-b38f-46a6-88d4-9d210be00851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input_info_account&quot;)/div[@class=&quot;alert alert-success flashSession&quot;]</value>
+      <webElementGuid>706c4098-8bf6-42bd-88c4-329ad1928459</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='input_info_account']/div</value>
+      <webElementGuid>2e7fd171-98e5-4862-8b17-9cb2b87a5446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hỏi đáp'])[1]/following::div[8]</value>
+      <webElementGuid>d411172f-34cb-4485-b4b1-1c5662374122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua lại'])[1]/following::div[8]</value>
+      <webElementGuid>3582b669-14b1-4725-9b4f-d827bc27a625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin tài khoản'])[2]/preceding::div[1]</value>
+      <webElementGuid>a8f97b47-0650-4ea6-80f8-77fa9ff4a498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tải ảnh của bạn'])[1]/preceding::div[3]</value>
+      <webElementGuid>e254f6cf-f985-400a-a660-6d2921f50ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mật khẩu của bạn đã được thay đổi thành công.']/parent::*</value>
+      <webElementGuid>151ab92a-1928-4c27-830a-99195808c6d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>81ec7834-cddf-4fea-ab87-63e82650e00c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mật khẩu của bạn đã được thay đổi thành công.' or . = 'Mật khẩu của bạn đã được thay đổi thành công.')]</value>
+      <webElementGuid>aace428a-a1fa-477f-a878-4ced84936e58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Link_account</name>
+   <tag></tag>
+   <elementGuidId>a3949d4e-d684-4db8-ae6c-8e4593ffbd65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item_da_login > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4c82cbd6-3b3d-47d2-850d-ab479978d274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://hasaki.vn/customer/account</value>
+      <webElementGuid>bb4a5556-fd33-41e5-ae8a-9bb99dadb14f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>f736d1bc-1306-4670-83f9-4d20861671ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tài khoản của bạn </value>
+      <webElementGuid>42a6db0b-d5d6-499d-b8f0-9785fbce6a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v3_inf_right_header&quot;]/div[@class=&quot;item_header item_login user_login&quot;]/div[@class=&quot;sub_login sub_dalogin&quot;]/div[@class=&quot;main_content_sub_login&quot;]/div[@class=&quot;item_da_login&quot;]/a[1]</value>
+      <webElementGuid>8fb68d3e-7ae2-436c-80c1-d74d41fc6f55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div/a</value>
+      <webElementGuid>4ec57337-0dd1-440c-a5af-821a7fafd36e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tài khoản của bạn')]</value>
+      <webElementGuid>391d6887-0905-4768-878f-aa956f1298c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phương'])[1]/following::a[2]</value>
+      <webElementGuid>740dd193-1256-45c2-a98e-e0f627eccc3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý đơn hàng'])[1]/preceding::a[1]</value>
+      <webElementGuid>c92ffb21-9138-492d-ba94-f861dcc079a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm yêu thích'])[1]/preceding::a[2]</value>
+      <webElementGuid>516f07e5-dd76-423a-9dd3-995f8c56bc84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tài khoản của bạn']/parent::*</value>
+      <webElementGuid>b26b987e-607a-4dd7-8109-72ce7f2f3eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://hasaki.vn/customer/account')]</value>
+      <webElementGuid>fda40666-8777-438a-bc6e-3500a382c8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/div/a</value>
+      <webElementGuid>f0f69879-fd12-4e4b-a3c2-d57e19d792a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://hasaki.vn/customer/account' and (text() = ' Tài khoản của bạn ' or . = ' Tài khoản của bạn ')]</value>
+      <webElementGuid>ac6d63f7-660d-4a4e-95cc-ce0567f6b4bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
